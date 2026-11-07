@@ -188,3 +188,8 @@ BlogEngine/.vs/
 BlogEngine/BlogEngine.NET/App_Data/datastore/extensions/*.xml
 /.vs/slnx.sqlite
 /.vs/BlogEngine.NET/config/applicationhost.config
+*/.vs/
+/.vs
+/BlogEngine/BlogEngine.Core/.vs
+/BlogEngine/BlogEngine.NET/.vs
+/BlogEngine/BlogEngine.Tests/.vs
